@@ -3,11 +3,12 @@
 Ultra MVC CLI
 
 ## Getting Started
-Install the module with: `npm install ultramvc`
+Install the module with: `npm install -g ultramvc`
 
-```javascript
-var ultramvc = require('ultramvc');
-ultramvc.awesome(); // "awesome"
+To start a new project:
+
+```bash
+ultramvc new project
 ```
 
 ## Documentation
